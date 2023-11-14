@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content-wrapper{
+    width: 768px;
+    background-color: rgb(59, 59, 59);
+    height: 100vh;
+    margin: auto;
+}
